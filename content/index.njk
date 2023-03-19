@@ -1,0 +1,47 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+numberOfLatestPostsToShow: 3
+---
+<h1>Hi, I’m Teddy, nice to meet you!</h1>
+
+<p>I'm an experienced practitioner at the intersection of Lean-Agile, organisational development, product development, and strategy deployment, in the business of building <a href="https://www.agendashift.com/about/wholehearted">wholehearted organisations</a> getting their customer’s <a href="https://www.agendashift.com/resources/done">needs being met</a>.</p>
+
+<h2>Let’s connect</h2>
+
+<p>Take a look at <a href="/now/">what I’m doing now</a>, or connect with me on …</p>
+
+<ul>
+	<li><a href="https://www.goodreads.com/teddyzetterlund">Goodreads</a> for the books that I read</li>
+	<li><a href="https://www.linkedin.com/in/teddyzetterlund/">LinkedIn</a> for the "professional" side</li>
+  <li><a href="/blog">Articles</a> for the occasional writing</li>
+  <li><a href="https://twitter.com/teddyzetterlund">Twitter</a> for pieces of thoughts</li>
+</ul>
+
+<div class="message-box">
+	<strong><a href="mailto:teddy.zetterlund@gmail.com">Send me an email</a>, if you’d like to chat.</strong>
+</div>
+
+{% set postsCount = collections.posts | length %}
+{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
+<h2>My most recent post{% if latestPostsCount != 1 %}s{% endif %}</h2>
+
+{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslistCounter = postsCount %}
+{% include "postslist.njk" %}
+
+{% set morePosts = postsCount - numberOfLatestPostsToShow %}
+{% if morePosts > 0 %}
+<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
+{% endif %}
+
+{# List every content page in the project #}
+{#
+<ul>
+	{%- for entry in collections.all %}
+	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
+	{%- endfor %}
+</ul>
+#}
