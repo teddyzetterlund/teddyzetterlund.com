@@ -6,17 +6,17 @@ eleventyNavigation:
 ---
 # What I’m doing now
 
-* **Personal** — Well, we changed our floor in the whole apartment recently, so right now—no new personal projects.
+* **Personal** – We're planning for our second trip to Japan, and this time around we'll know some japanese when we're there, so outside of the usual (nature, biking, exercise, etc.) practicing japanese is in focus.
 
-* **Creative** — Working on two courses at the moment: 1) a 1–2 day course on product development flow, and 2) a 2 day course on product market fit and experimentation.
+* **Creative** — During the pandemic I picked up an old hobby again: Table Top Warhammer 40K, and I'm fully invested in it currently. Building models, painting models, attending tournaments, and so on. Lots of fun!
 
-* **Playing** — Red Dead Redemption 2, obviously. And will probably do this for a while. It’s huge, and sometimes I just play poker in the game …
+* **Playing** — Nothing at this time, and probaly nothing for a while. Spring is almost here. And the few hours I spend in from of a TV is now japanese movies or learning exercises.
 
-* **Reading** — Reading have had to take the backseat for a while. But I recently read Mastering Leadership: An Integrated Framework for Breakthrough Performance and Extraordinary Business Results. The title is a mouthful and the book is the same, but there’s a lot of good stuff in there—just remember that it’s okay not to read it all.
+* **Reading** — Goldratt's Rules of Flow. Nothing new here probably, but I like the story format and how they're all anchored to real stories. Also, it's written by Goldratt's daugher and I enjoyed The Choice.
 
 You will always find an updated view of [my reading list at Goodreads](https://www.goodreads.com/teddyzetterlund).
 
-**Last updated:** November 27th, 2018.
+**Last updated:** Mars 21th, 2023.
 
 <div class="message-box">
 	Inspired by <a href="http://nownownow.com/about">Derek Sivers now page</a>.
