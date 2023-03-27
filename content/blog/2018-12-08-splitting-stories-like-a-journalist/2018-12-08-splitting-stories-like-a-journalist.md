@@ -21,21 +21,21 @@ Many good techniques and tips for splitting stories exists already (some linked 
 To demonstrate how this might work, we’ll continue with an example.
 
 * “**What** is the story about?”
-* * “Oh, it’s a formatting toolbar. You know, like the one in Microsoft Word. Our users want to style their texts in different ways.”
+  * “Oh, it’s a formatting toolbar. You know, like the one in Microsoft Word. Our users want to style their texts in different ways.”
 * “**Why** do you users want to style their texts in different ways?”
-* * “To improve readability and communication with their readers.”
+  * “To improve readability and communication with their readers.”
 * “**What** kind of different ways?”
-* * “Well, we’re thinking a few. Making the text bold, in italics, different colors, and highlight words and phrases. That last one is often wished for by many.”
+  * “Well, we’re thinking a few. Making the text bold, in italics, different colors, and highlight words and phrases. That last one is often wished for by many.”
 * “**Who** exactly wishes for highlighting of words and phrases?”
-* * “That would be the editors. They want to be able to highlight certain words and phrases so that they more easily can provide feedback.”
+  * “That would be the editors. They want to be able to highlight certain words and phrases so that they more easily can provide feedback.”
 * “**Who** are the other users?”
-* * “The writers, of course!
+  * “The writers, of course!
 * “**How** would writers like to style their text?”
-* * “It’s the writers whom asked for being able to make their text in italics, and sometimes bold. To emphasize certain words, dialogue, and so on.”
+  * “It’s the writers whom asked for being able to make their text in italics, and sometimes bold. To emphasize certain words, dialogue, and so on.”
 * “**When** would our users use the formatting toolbar?”
-* * “Writers use our service night and day. You never know when they get the inspiration for their next masterpiece. Editors, they’d would use it at work.”
+  * “Writers use our service night and day. You never know when they get the inspiration for their next masterpiece. Editors, they’d would use it at work.”
 * “**Where** are they using our service?”
-* * Writers use all our applications. Editors, they only use it from their desktop computers at work. They don’t really care about the mobile app or web.”
+  * Writers use all our applications. Editors, they only use it from their desktop computers at work. They don’t really care about the mobile app or web.”
 
 ## What we learned from our questions
 
