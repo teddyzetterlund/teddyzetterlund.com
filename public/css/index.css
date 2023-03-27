@@ -81,6 +81,17 @@ p {
 
 li {
 	line-height: 1.5;
+	margin-top: .5em;
+}
+
+li li {
+	margin-top: 0;
+}
+
+blockquote {
+	border-left: .125em solid var(--color-gray-20);
+	margin-left: 1em;
+	padding-left: 1em;
 }
 
 a[href] {
