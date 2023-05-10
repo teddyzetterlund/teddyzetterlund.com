@@ -26,21 +26,21 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 
 ## Product/Software Development
 
-* The Goal, by Eliyahu M. Goldratt
 * Lean Enterprise, by Barry O’Reilly, Jez Humble, and Joanne Molesky
 * Impact Mapping, by Gojko Adzic
 * Product Development Flow, by Donald G. Reinertsen
+* The Goal, by Eliyahu M. Goldratt
 
 ## Agile & Lean Software Development
 
 * Agile & Iterative Development, by Craig Larman
-* Scaling Lean & Agile Development, by Craig Larman and Bas Vodde
-* Practices for Scaling Lean & Agile, by Craig Larman and Bas Vodde
+* Extreme Programming Explained: Embrace Change, by Kent Beck and Cynthia Andres
+* Kanban and Scrum: making the most of both, by Henrik Kniberg and Mattias Skarin
 * Large-Scale Scrum: More with LeSS, by Craig Larman and Bas Vodde
 * Lean Software Development: An Agile Toolkit, by Mary Poppendieck and Tom Poppendieck
-* Extreme Programming Explained: Embrace Change, by Kent Beck and Cynthia Andres
+* Practices for Scaling Lean & Agile, by Craig Larman and Bas Vodde
+* Scaling Lean & Agile Development, by Craig Larman and Bas Vodde
 * Scrum and XP from the Trenches, by Henrik Kniberg
-* Kanban and Scrum: making the most of both, by Henrik Kniberg and Mattias Skarin
 
 ## Consulting, Coaching & Facilitation
 
@@ -84,20 +84,26 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Pomodoro Technique Illustrated, by Staffan Nöteberg
 * Turn Your Ship Around, by David Marquet
 
-## Problem-Solving & Sense-Making
+## Design & Problem-Solving
 
+* Learning to Build, by Bob Moesta
+* Making Things Work, by Yaneer Bar-Yam
+* Notes on the Synthesis of Form, by Christopher Alexander
 * Problem Solving 101, by Ken Watanabe
 * Six Thinking Hats, by Edward de Bono
+* The Art of Problem Solving, by Russel L. Ackoff
+* The Design of Everyday Things, by Don Norman
 * The Toyota Kata Practice Guide, by Mike Rother
 * Toyota Kata, by Mike Rother
 
 ## Philosophy & Way of Life
 
-* Buddhism for Beginners, by Thubten Chodron
 * A Guide to the Good Life: The Ancient Art of Stoic Joy, by William B. Irvine
+* Buddhism for Beginners, by Thubten Chodron
+* How Will You Measure Your Life?, by Clayton Christensen
 * Meditations, by Marcus Aurelius (translated by Gregory Hays)
-* The Manual: A Philosopher’s Guide to Life, by Epicetus
 * The Choice, by Eliyahu M. Goldratt
+* The Manual: A Philosopher’s Guide to Life, by Epicetus
 
 ## Writing
 
