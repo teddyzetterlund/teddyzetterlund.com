@@ -8,6 +8,8 @@ eleventyNavigation:
 
 Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.thomaslindqvist.com/blogg/literature), here’s a some books that I have read and recommend—when the topic/category interests you.
 
+> We must continually learn to unlearn much what we have learned, and learn to learn that we have not been taught. Only thus do we and our subject grow. ~ R.D. Laing, The Politics of the Family and Other Essays
+
 <div class="message-box">
 	Under construction; and far from complete at this time.
 </div>
