@@ -59,9 +59,17 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Helping, by Edgar Schein
 * How to Win Friends and Influence People, by Dave Carnegie
 * Humble Inquiry, by Edgar Schein
+* Lean Change Management, by Jason Little
+* Managing Oneself. by Peter F. Drucker
 * Nonviolent Communication, by Marshall Rosenberg
+* Organize for Complexity, by Niels Pflaeging
+* Out of the Crisis, by W. Edwards Deming
 * The Secrets of Consulting, by Gerald Weinberg
 * More Secrets of Consulting, by Gerald Weinberg
+* Reinventing Organizations, by Frederic Laloux
+* The Coaching Habit, by Michael Bungay Stanier
+* The Essential Drucker, "by" Peter F. Drucker
+* The Progress Principle, by Teresa Amabile
 * The Satir Model, by Virginia Satir
 * The Skilled Facilitator, by Roger Schwarz
 * Training from the Back of the Room, by Sharon Bowman
