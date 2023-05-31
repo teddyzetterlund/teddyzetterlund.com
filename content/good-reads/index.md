@@ -19,6 +19,7 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Badass: Making Users Awesome, by Kathy Sierra
 * Business Model Generation, by Alex Osterwalder, Yves Pigneur
 * Competing Against Luck, by Clayton M. Christensen
+* Empowered, by Marty Cagan
 * Escaping the Build Trap, by Melissa Perri
 * Inspired, by Marty Cagan
 * Product Leadership, by Richard Banfield, Nate Walkingshaw, and Martin Eriksson
@@ -28,6 +29,8 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 
 ## Product/Software Development
 
+* Getting Real, by 37signals
+* Kanban from the Inside, by Mike Burrows
 * Lean Enterprise, by Barry O’Reilly, Jez Humble, and Joanne Molesky
 * Impact Mapping, by Gojko Adzic
 * Product Development Flow, by Donald G. Reinertsen
@@ -88,13 +91,19 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 
 ## Design & Problem-Solving
 
+* Don't Make Me Think, by Steve Krug
 * Learning to Build, by Bob Moesta
 * Making Things Work, by Yaneer Bar-Yam
+* Microinteractions, by Dan Saffer
 * Notes on the Synthesis of Form, by Christopher Alexander
 * Problem Solving 101, by Ken Watanabe
+* Rocket Surgery Made Easy, by Steve Krug
 * Six Thinking Hats, by Edward de Bono
+* Talking to Humans, by Giff Constable
+* Testing with Humans, by Giff Constable
 * The Art of Problem Solving, by Russel L. Ackoff
 * The Design of Everyday Things, by Don Norman
+* The Laws of Simplicity, by John Maeda
 * The Toyota Kata Practice Guide, by Mike Rother
 * Toyota Kata, by Mike Rother
 
@@ -102,6 +111,7 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 
 * A Guide to the Good Life: The Ancient Art of Stoic Joy, by William B. Irvine
 * Buddhism for Beginners, by Thubten Chodron
+* How to Win Friends and Influence People, by Dale Carnegie
 * How Will You Measure Your Life?, by Clayton Christensen
 * Meditations, by Marcus Aurelius (translated by Gregory Hays)
 * The Choice, by Eliyahu M. Goldratt
