@@ -22,10 +22,12 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Empowered, by Marty Cagan
 * Escaping the Build Trap, by Melissa Perri
 * Inspired, by Marty Cagan
+* Jobs to Be Done, by Anthony Ulwick
 * Product Leadership, by Richard Banfield, Nate Walkingshaw, and Martin Eriksson
 * Testing Business Ideas, by David Bland, Alex Osterwalder
 * User Story Mapping, by Jeff Patton
 * Value Proposition Canvas, by Alex Osterwalder, Yves Pigneur
+* What Customers Want, by Anthony Ulwick
 
 ## Product/Software Development
 
@@ -34,6 +36,7 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Lean Enterprise, by Barry O’Reilly, Jez Humble, and Joanne Molesky
 * Impact Mapping, by Gojko Adzic
 * Product Development Flow, by Donald G. Reinertsen
+* Strategize, by Roman Pichler
 * The Goal, by Eliyahu M. Goldratt
 
 ## Agile & Lean Software Development
@@ -99,6 +102,7 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 
 ## Design & Problem-Solving
 
+* Are Your Lights On?, by Gerald Weinberg
 * Don't Make Me Think, by Steve Krug
 * Learning to Build, by Bob Moesta
 * Making Things Work, by Yaneer Bar-Yam
@@ -124,9 +128,11 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Meditations, by Marcus Aurelius (translated by Gregory Hays)
 * The Choice, by Eliyahu M. Goldratt
 * The Manual: A Philosopher’s Guide to Life, by Epicetus
+* The Obstacle is the Way, by Ryan Holiday
 
 ## Writing
 
 * On Writing, by Stephen King
 * On Writing Well, by William Zinsser
+* The Elements of Style, by E.B. White
 * Weinberg on Writing, Gerald Weinberg
