@@ -8,6 +8,8 @@ eleventyNavigation:
 
 Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.thomaslindqvist.com/blogg/literature), here’s a some books that I have read and recommend—when the topic/category interests you.
 
+> We must continually learn to unlearn much what we have learned, and learn to learn that we have not been taught. Only thus do we and our subject grow. ~ R.D. Laing, The Politics of the Family and Other Essays
+
 <div class="message-box">
 	Under construction; and far from complete at this time.
 </div>
@@ -17,30 +19,36 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Badass: Making Users Awesome, by Kathy Sierra
 * Business Model Generation, by Alex Osterwalder, Yves Pigneur
 * Competing Against Luck, by Clayton M. Christensen
+* Empowered, by Marty Cagan
 * Escaping the Build Trap, by Melissa Perri
 * Inspired, by Marty Cagan
+* Jobs to Be Done, by Anthony Ulwick
 * Product Leadership, by Richard Banfield, Nate Walkingshaw, and Martin Eriksson
 * Testing Business Ideas, by David Bland, Alex Osterwalder
 * User Story Mapping, by Jeff Patton
 * Value Proposition Canvas, by Alex Osterwalder, Yves Pigneur
+* What Customers Want, by Anthony Ulwick
 
 ## Product/Software Development
 
-* The Goal, by Eliyahu M. Goldratt
+* Getting Real, by 37signals
+* Kanban from the Inside, by Mike Burrows
 * Lean Enterprise, by Barry O’Reilly, Jez Humble, and Joanne Molesky
 * Impact Mapping, by Gojko Adzic
 * Product Development Flow, by Donald G. Reinertsen
+* Strategize, by Roman Pichler
+* The Goal, by Eliyahu M. Goldratt
 
 ## Agile & Lean Software Development
 
 * Agile & Iterative Development, by Craig Larman
-* Scaling Lean & Agile Development, by Craig Larman and Bas Vodde
-* Practices for Scaling Lean & Agile, by Craig Larman and Bas Vodde
+* Extreme Programming Explained: Embrace Change, by Kent Beck and Cynthia Andres
+* Kanban and Scrum: making the most of both, by Henrik Kniberg and Mattias Skarin
 * Large-Scale Scrum: More with LeSS, by Craig Larman and Bas Vodde
 * Lean Software Development: An Agile Toolkit, by Mary Poppendieck and Tom Poppendieck
-* Extreme Programming Explained: Embrace Change, by Kent Beck and Cynthia Andres
+* Practices for Scaling Lean & Agile, by Craig Larman and Bas Vodde
+* Scaling Lean & Agile Development, by Craig Larman and Bas Vodde
 * Scrum and XP from the Trenches, by Henrik Kniberg
-* Kanban and Scrum: making the most of both, by Henrik Kniberg and Mattias Skarin
 
 ## Consulting, Coaching & Facilitation
 
@@ -54,9 +62,17 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Helping, by Edgar Schein
 * How to Win Friends and Influence People, by Dave Carnegie
 * Humble Inquiry, by Edgar Schein
+* Lean Change Management, by Jason Little
+* Managing Oneself. by Peter F. Drucker
 * Nonviolent Communication, by Marshall Rosenberg
+* Organize for Complexity, by Niels Pflaeging
+* Out of the Crisis, by W. Edwards Deming
 * The Secrets of Consulting, by Gerald Weinberg
 * More Secrets of Consulting, by Gerald Weinberg
+* Reinventing Organizations, by Frederic Laloux
+* The Coaching Habit, by Michael Bungay Stanier
+* The Essential Drucker, "by" Peter F. Drucker
+* The Progress Principle, by Teresa Amabile
 * The Satir Model, by Virginia Satir
 * The Skilled Facilitator, by Roger Schwarz
 * Training from the Back of the Room, by Sharon Bowman
@@ -84,23 +100,39 @@ Inspired by my good friend [Thomas Lindqvist listing his good reads](http://www.
 * Pomodoro Technique Illustrated, by Staffan Nöteberg
 * Turn Your Ship Around, by David Marquet
 
-## Problem-Solving & Sense-Making
+## Design & Problem-Solving
 
+* Are Your Lights On?, by Gerald Weinberg
+* Don't Make Me Think, by Steve Krug
+* Learning to Build, by Bob Moesta
+* Making Things Work, by Yaneer Bar-Yam
+* Microinteractions, by Dan Saffer
+* Notes on the Synthesis of Form, by Christopher Alexander
 * Problem Solving 101, by Ken Watanabe
+* Rocket Surgery Made Easy, by Steve Krug
 * Six Thinking Hats, by Edward de Bono
+* Talking to Humans, by Giff Constable
+* Testing with Humans, by Giff Constable
+* The Art of Problem Solving, by Russel L. Ackoff
+* The Design of Everyday Things, by Don Norman
+* The Laws of Simplicity, by John Maeda
 * The Toyota Kata Practice Guide, by Mike Rother
 * Toyota Kata, by Mike Rother
 
 ## Philosophy & Way of Life
 
-* Buddhism for Beginners, by Thubten Chodron
 * A Guide to the Good Life: The Ancient Art of Stoic Joy, by William B. Irvine
+* Buddhism for Beginners, by Thubten Chodron
+* How to Win Friends and Influence People, by Dale Carnegie
+* How Will You Measure Your Life?, by Clayton Christensen
 * Meditations, by Marcus Aurelius (translated by Gregory Hays)
-* The Manual: A Philosopher’s Guide to Life, by Epicetus
 * The Choice, by Eliyahu M. Goldratt
+* The Manual: A Philosopher’s Guide to Life, by Epicetus
+* The Obstacle is the Way, by Ryan Holiday
 
 ## Writing
 
 * On Writing, by Stephen King
 * On Writing Well, by William Zinsser
+* The Elements of Style, by E.B. White
 * Weinberg on Writing, Gerald Weinberg
